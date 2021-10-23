@@ -1,0 +1,70 @@
+assalamualaikum warahmtullahi wabarakatuh
+
+saya virna febri andini dari prodi teknik informatika, universitas teknologi sumbawa ingin berbagi sedikit ilmu secara singkat kepada teman teman mengenai pemahaman dasar bagi pemula untuk menjadi programmer yang handal.
+
+ok lets go......
+
+1.apa  itu python?
+
+    python adalah salah satu bahasa pemrograman
+
+2. apa itu pemrograman language dan sebutkan contohnya
+
+    bahasa pemrograman adalah bahasa yang digunakan untuk mengendalikan perilaku mesin,contohnya python itu sendiri
+
+3. markup language ?
+
+    markup language fungsinya untuk mengatur tampilan teks yang kita lihat
+
+    contohnya HTML,CSS, XML
+
+4. pemrograman konvensional adalah pemrograman terstruktur atau berbasis teks, contoh C++ dan 
+
+    pascal, java, python
+
+    pemrograman visual adalah pemrograman yang mendukung konsep OOP contohnya, Borlan delpi, 
+
+    visual basic
+
+5. hard code: menuliskan kode dengan menaruh data secara langsung dikode atau disumber. hardcode 
+
+    tidak bisa diubah
+
+    softcode : pernyataan pemisah masalah, softcode bisa diubah.
+
+6. compiler   : kode sumber dikonversi menjadi mechine code
+
+    interpreter : menerjemahkan bahasa sumber kedalam bahasa sasaran secara langsung.
+
+7. perbedaan mencolok yang membedakan antara python dengan program language lainnya adalah 
+
+    python tidak menggunakan titik koma diakhir code
+
+8. perbedaan IDE dan text editor
+
+    IDE          : IDE memiliki compiler dan juga ada editornya
+
+    text editor  : hanya untuk mengedit plain text
+
+9. IDE khusus untuk Python dan text editor untuk python 
+
+    IDE           : Pycharm, Pydev, visual studio code
+
+    text editor   : debungging, automatic code formating, syntax highligting
+
+10. perbedaan bahasa natural algoritma, pseudocode, flowchart
+
+    bahasa natural algoritma : ditulis dengan bahasa yang kita gunakan sehari-hari (bahasa                                                                     indonesia),atau bahasa apapun yang dipahami.
+
+    pseudocode                     : menggunakan pendekatan bahasa pemrograman pascal
+
+    flowchart                      : suatu bagan dengan simbol-simbol tertentu yang menggambarkan urutan                                                   proses secara mendetail
+
+
+
+ 
+
+                  terimakasih
+
+    
+
